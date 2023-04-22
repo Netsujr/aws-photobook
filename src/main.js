@@ -12,5 +12,4 @@ Amplify.configure(aws_exports);
 createApp(App)
   .use(store)
   .use(router)
-  .use(Amplify)
   .mount("#app");
