@@ -1,0 +1,14 @@
+{
+  "resourceName": "photoBookTest",
+  "policyUUID": "27e371dd",
+  "bucketName": "awsphotobookec6fa861904c413c8df97fe8684a8350",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
